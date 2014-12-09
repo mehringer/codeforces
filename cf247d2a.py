@@ -8,5 +8,5 @@ result = 0
 for num in lst:
 	result += arr[num -1]
 
-print result	
+print result
 

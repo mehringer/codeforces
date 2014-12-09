@@ -21,6 +21,6 @@ public class cf253d2a {
             }
             
         }
-        System.out.println("" + counter);
+        System.out.println( "" + counter);
     }
 }
