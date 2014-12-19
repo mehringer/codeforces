@@ -12,5 +12,4 @@ for x in range(n-2):
     diff = min(arr[x] - arr[x+2], origdiff)
     mindiff = diff if diff > mindiff else mindiff
 
-
 print (-1 * mindiff)
